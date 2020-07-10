@@ -1,3 +1,8 @@
-.okButton{
+.okButton {
     background-color: rgb(122, 196, 107);
+}
+
+h3 {
+    text-decoration-color: grey;
+    text-align: center;
 }
