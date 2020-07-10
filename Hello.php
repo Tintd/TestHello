@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+    <link rel='stylesheet' type='text/css' href='style.css' />
 </head>
 
 <body>
@@ -8,7 +9,7 @@
 <?php echo "Hello Friday";  echo "<br>"; echo "Third friday"; ?>
 
 <br><br>
-<input class="okButton" type="Button" value="Ok" name="okbutton">
+<input type="Button" class="okButton" value="Ok" name="okbutton">
 
 </body>
 </html>
